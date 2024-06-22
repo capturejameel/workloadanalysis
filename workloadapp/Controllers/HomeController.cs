@@ -4,6 +4,7 @@ using workloadapp.Models;
 
 namespace workloadapp.Controllers;
 
+//HomeController class
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
